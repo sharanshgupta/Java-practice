@@ -6,5 +6,6 @@ public class HelloWorld {
 	{
 		System.out.println("Hello World - first program");
 		System.out.println("Adding project to git.");
+		System.out.println("Adding code from Github");
 	}
 }
