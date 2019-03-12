@@ -23,6 +23,7 @@ public class PasswordValidate {
 				//System.out.println(passwords[i]);
 			}
 			br.close();
+			//Checking if passwords added to array or not
 			/*for (int i = 0; i < 13; i++) {
 				System.out.println(passwords[i]);
 			}
