@@ -19,7 +19,7 @@ public class Sets {
 		animals.add("Pig");
 		animals.add("Crocodile");
 		// Adding Rabbit again but it wont add as Hashset keeps unique values
-		animals.add("Rabit");
+		animals.add("Rabits");
 
 		for (String animal : animals) {
 			System.out.println(animal);
